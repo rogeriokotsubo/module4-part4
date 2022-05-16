@@ -51,8 +51,8 @@ main {
     border-width: 1px;
     border-style: solid;
     border-color: red;
-    background-image: url('https://static.wixstatic.com/media/3d3594_6a16c57cf43a45148ba18da30afb4ad7~mv2.png/v1/fill/w_196,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%201.png'); 
-    /*background-image: url('img/picachu.jpeg');*/ /* Não consegui utilizando imagem local.*/
+    /*background-image: url('https://static.wixstatic.com/media/3d3594_6a16c57cf43a45148ba18da30afb4ad7~mv2.png/v1/fill/w_196,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%201.png'); */
+    background-image: url('../img/lua.png');
     background-repeat: no-repeat;
 }
 #cx-bkg-img-repetida {
@@ -61,8 +61,8 @@ main {
     border-width: 1px;
     border-style: solid;
     border-color: red;
-    background-image: url('https://static.wixstatic.com/media/3d3594_6a16c57cf43a45148ba18da30afb4ad7~mv2.png/v1/fill/w_196,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%201.png'); 
-    /*background-image: url("img/lua.png"); */ /*Não consegui utilizando imagem local. */
+    /*background-image: url('https://static.wixstatic.com/media/3d3594_6a16c57cf43a45148ba18da30afb4ad7~mv2.png/v1/fill/w_196,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%201.png'); */
+    background-image: url("../img/lua.png"); 
 }  
 #cx-bkg-solida {
   background-color: orangered;
@@ -126,6 +126,6 @@ main {
   border-radius: 50%;
   border-color: blue;
   background-repeat: no-repeat;
-  /*background-image: url('./img/foto-perfil.svg'); */
-  background-image: url('https://avatars.githubusercontent.com/u/81968045?v=4'); 
+  background-image: url('./img/foto-perfil.svg'); 
+  /*background-image: url('https://avatars.githubusercontent.com/u/81968045?v=4'); */
 }
